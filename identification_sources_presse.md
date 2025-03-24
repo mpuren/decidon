@@ -23,12 +23,13 @@
 - L'Action française
 
 ### Presse économique et sociale
-- Journal des économistes,
-- Revue d’économie politique,
-- L’Économiste français,
+- Journal des économistes
+- Revue d’économie politique
+- L’Économiste français
 - Revue de science et de législation financières
 - La Journée industrielle
-- Presse des grands groupements professionnels comme le Bulletin de l'Union des syndicats patronaux des industries textiles de France 
+- Presse des grands groupements professionnels comme le Bulletin de l'Union des syndicats patronaux des industries textiles de France
+
 ### Revues propres au parti colonial
 - Bulletin mensuel de l’Union coloniale puis Quinzaine coloniale (1896)
 - Bulletin du comité de l'Afrique française puis L'Afrique française (1909)
