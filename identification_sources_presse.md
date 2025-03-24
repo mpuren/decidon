@@ -3,9 +3,10 @@
 ## Presse généraliste : 
 - Le Temps
 - Le Matin
-- Le oJurnal des débats
+- Le Journal des débats
 - L'Illustration
 - Le Monde illustré
+- La Revue des Deux Mondes
 
 ## Presse régionale / locale
 - Ouest éclair
@@ -17,8 +18,17 @@
 
 ## Presse spécialisée
 
-### Presse économique et sociale
+### Presse politique
+- Revue politique et parlementaire
+- L'Action française
 
+### Presse économique et sociale
+- Journal des économistes,
+- Revue d’économie politique,
+- L’Économiste français,
+- Revue de science et de législation financières
+- La Journée industrielle
+- Presse des grands groupements professionnels comme le Bulletin de l'Union des syndicats patronaux des industries textiles de France 
 ### Revues propres au parti colonial
 - Bulletin mensuel de l’Union coloniale puis Quinzaine coloniale (1896)
 - Bulletin du comité de l'Afrique française puis L'Afrique française (1909)
@@ -27,5 +37,3 @@
 - Bulletin du Comité de Madagascar (1895-1899) puis La Revue de Madagascar (1899-1911)
 - Revue des Colonies
 - Revue maritime et coloniale
-
-### Presse politique
