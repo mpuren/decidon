@@ -1,5 +1,28 @@
 # Identification des sources de presse (en cours)
 
+Pour la liste des titres de presse, c'est très vaste ! Quelques propositions (en espérant avoir bien compris la demande)
+
+Le Temps
+La Revue des deux mondes
+Le petit journal
+
+Annales des Ponts et chaussées
+
+Journal de l'agriculture
+Bulletin de la société des agriculteurs de France
+La semaine agricole
+Journal d'agriculture pratique
+
+L'économiste français
+Revue d'économie politique
+Moniteur industriel
+Annales industrielles
+
+Voir les Bulletins des sociétés savantes départementales ?
+
+Quelques titres régionaux ? (mais ça explose dans les années 1880 et comment identifier des titres pour chaque région qui ne soient pas un copier-coller de la presse parisienne ?)
+L'Indépendant
+
 ## Presse généraliste : 
 - *Le Temps*
 - *Le Matin*
