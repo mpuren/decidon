@@ -1,104 +1,149 @@
 # Liste des éphémères politiques identifiés par le Département Droit Economie et Politique
 Les titres finalement sélectionnés seront numérisés dans le cadre du projet DECIDON
 
-- Bulletin de la Fédération républicaine radicale et radicale-socialiste
-- Bulletin de la Fédération républicaine radicale et radicale-socialiste d'Indre-et-Loire
-- Bulletin officiel du Parti radical indépendant, Fédération girondine
-- Cherbourg-demain
-- Gaillac républicain
-- Halte-là !
-- La Défense (Fédération socialiste-communiste des Bouches-du-Rhône)
-- La Défense (journal mensuel de propagande)
-- La Démocratie
-- La Démocratie (organe de M. Guillon)
-- La Démocratie girondine
-- La Démocratie varoise
-- La Guillotière socialiste
-- La Picardie républicaine
-- La République
-- La République de la Haute-Saône
-- La République du Morvan
-- La République nouvelle
-- La République sociale
-- La Riposte d'Hellemmes-Lille
-- La Tribune de l'Ardèche
-- La Tribune républicaine du Mâconnais
-- La Voix de la Sologne
-- La Voix des jeunes
-- Le Appel républicain
-- Le Avant-garde socialiste
-- Le Berry républicain
-- Le Bleu d'Anjou
-- Le Bloc des gauches de l'Ariège
-- Le Brignolais
-- Le Cabardès socialiste
-- Le Cers
-- Le Combat
-- Le Combat républicain
-- Le Combat social
-- Le Cri de Béziers
-- Le Cri républicain
-- Le Démocrate sarthois
-- Le Démocrate vaurais
-- Le Dunkerquois républicain
-- Le Echo du Loir
-- Le Echo sisteronnais
-- Le Éclaireur
-- Le Éclaireur de Pont-Audemer
-- Le Éclaireur d'Évreux
-- Le Éveil
-- Le Éveil breton
-- Le Éveil calaisien
-- Le Éveil socialiste du canton nord de Versailles
-- Le Homme libre de Nantua-Gex
-- Le Indépendance socialiste
-- Le Information du Berry
-- Le Jacobin de Seine-et-Oise
-- Le Jeune radical
-- Le Journal de l'Est
-- Le Mâconnais radical et agricole
-- Le Marseille-élections
-- Le Nontron radical et socialiste
-- Le Petit Auxerrois
-- Le Phare des Hautes-Alpes
-- Le Populaire de Loir-et-Cher
-- Le Progrès de Tours
-- Le Progrès démocratique
-- Le Progrès du XIXe arrondissement
-- Le Progrès républicain (1928)
-- Le Progrès républicain (1935)
-- Le Prolétaire des Epinettes
-- Le Radical
-- Le Radical de l'arrondissement de Saint-Yrieix
-- Le Radical de la Nièvre
-- Le Radical de Mauriac
-- Le Radical de Quimperlé
-- Le Radical de Thiérache
-- Le Radical lannionnais
-- Le Radical mâconnais
-- Le Radical marmandais
-- Le Radical socialiste de la Corrèze
-- Le Radical soissonnais (1932–1933)
-- Le Radical soissonnais (1934–1935)
-- Le Radical soissonnais (1936–1937)
-- Le Radical soissonnais (1937–1939)
-- Le Radical unioniste du Chinonais
-- Le Radical-socialiste
-- Le Rappel charentais
-- Le Rappel de Toulouse
-- Le Républicain de Lavaur
-- Le Républicain de l'Indre
-- Le Républicain du XVIIe
-- Le Républicain socialiste de la Haute-Vienne
-- Le Républicain socialiste de la Nièvre
-- Le Républicain-socialiste du XIIIe arrondissement
-- Le Réveil bergeracois
-- Le Réveil calaisien
-- Le Réveil de l'Ain
-- Le Réveil de Tarn-et-Garonne
-- Le Réveil du Centre
-- Le Réveil du canton de Varilhes
-- Le Réveil du peuple landais
-- Le Réveil radical et radical-socialiste
-- Le Réveil sénonais
-- Le Réveil socialiste (1932, 1936
+- *Bulletin de la Fédération républicaine radicale et radicale-socialiste*
+- *Bulletin de la Fédération républicaine radicale et radicale-socialiste d'Indre-et-Loire*
+- *Bulletin officiel du Parti radical indépendant, Fédération girondine*
+- *Cherbourg-demain*
+- *Gaillac républicain*
+- *Halte-là !*
+- *La Défense (Fédération socialiste-communiste des Bouches-du-Rhône)*
+- *La Défense (journal mensuel de propagande)*
+- *La Démocratie*
+- *La Démocratie (organe de M. Guillon)*
+- *La Démocratie girondine*
+- *La Démocratie varoise*
+- *La Guillotière socialiste*
+- *La Picardie républicaine*
+- *La République*
+- *La République de la Haute-Saône*
+- *La République du Morvan*
+- *La République nouvelle*
+- *La République sociale*
+- *La Riposte d'Hellemmes-Lille*
+- *La Tribune de l'Ardèche*
+- *La Tribune républicaine du Mâconnais*
+- *La Voix de la Sologne*
+- *La Voix des jeunes*
+- *Le Appel républicain*
+- *Le Avant-garde socialiste*
+- *Le Berry républicain*
+- *Le Bleu d'Anjou*
+- *Le Bloc des gauches de l'Ariège*
+- *Le Brignolais*
+- *Le Cabardès socialiste*
+- *Le Cers*
+- *Le Combat*
+- *Le Combat républicain*
+- *Le Combat social*
+- *Le Cri de Béziers*
+- *Le Cri républicain*
+- *Le Démocrate sarthois*
+- *Le Démocrate vaurais*
+- *Le Dunkerquois républicain*
+- *Le Echo du Loir*
+- *Le Echo sisteronnais*
+- *Le Éclaireur*
+- *Le Éclaireur de Pont-Audemer*
+- *Le Éclaireur d'Évreux*
+- *Le Éveil*
+- *Le Éveil breton*
+- *Le Éveil calaisien*
+- *Le Éveil socialiste du canton nord de Versailles*
+- *Le Homme libre de Nantua-Gex*
+- *Le Indépendance socialiste*
+- *Le Information du Berry*
+- *Le Jacobin de Seine-et-Oise*
+- *Le Jeune radical*
+- *Le Journal de l'Est*
+- *Le Mâconnais radical et agricole*
+- *Le Marseille-élections*
+- *Le Nontron radical et socialiste*
+- *Le Petit Auxerrois*
+- *Le Phare des Hautes-Alpes*
+- *Le Populaire de Loir-et-Cher*
+- *Le Progrès de Tours*
+- *Le Progrès démocratique*
+- *Le Progrès du XIXe arrondissement*
+- *Le Progrès républicain (1928)*
+- *Le Progrès républicain (1935)*
+- *Le Prolétaire des Epinettes*
+- *Le Radical*
+- *Le Radical de l'arrondissement de Saint-Yrieix*
+- *Le Radical de la Nièvre*
+- *Le Radical de Mauriac*
+- *Le Radical de Quimperlé*
+- *Le Radical de Thiérache*
+- *Le Radical lannionnais*
+- *Le Radical mâconnais*
+- *Le Radical marmandais*
+- *Le Radical socialiste de la Corrèze*
+- *Le Radical soissonnais (1932–1933)*
+- *Le Radical soissonnais (1934–1935)*
+- *Le Radical soissonnais (1936–1937)*
+- *Le Radical soissonnais (1937–1939)*
+- *Le Radical unioniste du Chinonais*
+- *Le Radical-socialiste*
+- *Le Rappel charentais*
+- *Le Rappel de Toulouse*
+- *Le Républicain de Lavaur*
+- *Le Républicain de l'Indre*
+- *Le Républicain du XVIIe*
+- *Le Républicain socialiste de la Haute-Vienne*
+- *Le Républicain socialiste de la Nièvre*
+- *Le Républicain-socialiste du XIIIe arrondissement*
+- *Le Réveil bergeracois*
+- *Le Réveil calaisien*
+- *Le Réveil de l'Ain*
+- *Le Réveil de Tarn-et-Garonne*
+- *Le Réveil du Centre*
+- *Le Réveil du canton de Varilhes*
+- *Le Réveil du peuple landais*
+- *Le Réveil radical et radical-socialiste*
+- *Le Réveil sénonais*
+- *Le Réveil socialiste (1932, 1936)*
+- *Le Réveil socialiste du Cher (1931–1933)*
+- *Le Réveil socialiste du Cher (1934)*
+- *Le Sancerrois*
+- *Le Socialisme varois*
+- *Le Socialiste français*
+- *Le Socialiste indépendant de Saint-Fargeau*
+- *Le Socialiste tarbais*
+- *Le Socialiste thiernois*
+- *Le Travailleur de Saône-et-Loire*
+- *Le Travailleur du Trégor*
+- *Le Union briarde*
+- *Le Vaurais socialiste*
+- *Le Vingt-deux décembre*
+- *L'Action républicaine des Basses-Alpes*
+- *L'Action républicaine du bassin d'Arcachon*
+- *L'Ain radical*
+- *L'Ain radical (1934–1935)*
+- *L'Appel*
+- *L'Aube sociale*
+- *L'Aurore socialiste de Condom et de l'Armagnac*
+- *L'Avenir de la Nièvre*
+- *L'Avenir du Nivernais*
+- *L'Avenir marquettois*
+- *L'Avenir saint-polois*
+- *L'Écho de la Vienne*
+- *L'Écho du Loir*
+- *L'Éclaireur*
+- *L'Éclaireur de Pont-Audemer*
+- *L'Éclaireur d'Évreux*
+- *L'Éveil*
+- *L'Éveil breton*
+- *L'Éveil calaisien*
+- *L'Éveil socialiste du canton nord de Versailles*
+- *L'Homme libre de Nantua-Gex*
+- *L'Information du Berry*
+- *L'Union briarde*
+- *L'Union socialiste*
+- *La Vérité*
+- *La Vérité socialiste*
+- *La Vigie*
+- *La Voix de Lille*
+- *La Voix de la Sologne*
+- *La Voix des jeunes*
+- *Nos Alpes*
+- *Paris dix-neuvième*
