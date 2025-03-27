@@ -6,6 +6,7 @@
 - Tardieu, André. *La Révolution à refaire*. 2 vol. Lagny Paris: Impr. E. Grevin et fils Ernest Flammarion, 1936. http://gallica.bnf.fr/ark:/12148/bpt6k1506086r.
 
 ## Sources à analyser en vue de leur numérisation
+*Les titres ci-dessous seront analysées pour évaluer leur état en vue de leur numérisation. Les données concernant les auteurs seront également vérifiées, de façon à sélectionner les oeuvres dans le domaine public, ou qui le seront à la fin du projet.*
 - Bardoux, Jacques. *La France de demain :  son gouvernement, ses assemblées, sa justice, textes du Comité technique pour la réforme de l’Etat*. Édité par Comité technique pour la réforme de l’Etat. 1 vol. Bibliothèque constitutionnelle et parlementaire contemporaine 8. Paris: Librairie du Recueil Sirey, 1936.
 - Barthélemy, Joseph. *Essai sur le travail parlementaire et le systéme des commissions*. Bibliothèque de l’Institut international de droit public 5. Paris: Delagrave, 1934.
 - Barthélemy, Joseph. *La crise de la démocratie contemporaine*. 1 vol. Bibliothèque constitutionnelle et parlementaire, contemporaine 1. Paris: Recueil Sirey, 1931.
