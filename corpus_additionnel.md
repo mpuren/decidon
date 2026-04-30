@@ -3,7 +3,7 @@
 ## Sources numérisées
 - Benoist, Charles. *La réforme parlementaire*. 1 vol. Paris: Plon-Nourrit, 1902. http://gallica.bnf.fr/ark:/12148/bpt6k54478690.
 - Delafosse, Jules. *Psychologie du député*. 1 vol. Paris: Plon-Nourrit et Cie, 1904. http://gallica.bnf.fr/ark:/12148/bpt6k278577.
-- Poudra, Jules et Pierre, Eugène, *Traité pratique de droit parlementaire*. Diverses éditions jusqu'au mi-temps des années 20.
+- Poudra, Jules et Pierre, Eugène. *Traité pratique de droit parlementaire*. Diverses éditions jusqu'au mi-temps des années 20.
 - Tardieu, André. *La Révolution à refaire*. 2 vol. Lagny Paris: Impr. E. Grevin et fils Ernest Flammarion, 1936. http://gallica.bnf.fr/ark:/12148/bpt6k1506086r.
 
 ## Sources à analyser en vue de leur numérisation
@@ -20,9 +20,11 @@
 - Daudet, Léon. *Le pays des parlementeurs*. Paris: E. Flammarion, 1901.
 - Déndias, Michaī́l. *Le Renforcement des pouvoirs du chef de l’État dans la démocratie parlementaire*. Bordeaux, impr. J. Bière Paris, E. de Boccard, éditeur, 1932.
 - Giraud, Émile. *La crise de la démocratie et le renforcement du pouvoir exécutif*. 1 vol. Bibliothèque de l’Institut international de droit public 8. Paris: Sirey, 1938.
+- Goguel, François. *Le rôle financier du Sénat français : essai d'histoire parlementaire*.1 vol. Paris : Librairie du Recueil Sirey. 1937.
 - Haykal, Yūsuf. *Le Président du Conseil et l’évolution du parlementarisme en France, étude juridique, politique et critique*. Préface de M. Harold J. Laski,... Paris, L. Rodstein, 17, rue Cujas, 1937.
 - Luigini, Louis, *La Réforme du règlement de la Chambre des Députés, élément d’une réforme de l’État*. Thèse de doctorat, Université de Toulouse, 1936.
 - Redslob, Robert. *Le Régime parlementaire. Étude sur les institutions d’Angleterre, de Belgique, de Hongrie, de Suède, de France, de Tchécoslovaquie, de l’Empire allemand, de Prusse, de Bavière et d’Autriche*. Paris: M. Giard, 1924.
 - Ripert, Henri. *La présidence des assemblées politiques*. Paris: A. Rousseau, 1908.
 - Samuel, René. *Le Parlement et la guerre, 1914-1915*. Paris: G. Rousan, 1918.
+- Tibal, André. *Histoire des institutions, évolution constitutionnelle et parlementaire des États européens depuis 1918*. Paris : Centre européen de la Dotation Carnegie, [1931].
 - Vigné d’Octon, Paul. *Les Grands et les Petits Mystères du Palais Bourbon. Scènes vécues de la vie parlementaire*. Paris: impr. Ramlot et Cie ; éditions Radot, 1928.
