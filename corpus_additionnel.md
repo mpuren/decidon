@@ -3,6 +3,7 @@
 ## Sources numérisées
 - Benoist, Charles. *La réforme parlementaire*. 1 vol. Paris: Plon-Nourrit, 1902. http://gallica.bnf.fr/ark:/12148/bpt6k54478690.
 - Delafosse, Jules. *Psychologie du député*. 1 vol. Paris: Plon-Nourrit et Cie, 1904. http://gallica.bnf.fr/ark:/12148/bpt6k278577.
+- Poudra, Jules et Pierre, Eugène, *Traité pratique de droit parlementaire*. Diverses éditions jusqu'au mi-temps des années 20.
 - Tardieu, André. *La Révolution à refaire*. 2 vol. Lagny Paris: Impr. E. Grevin et fils Ernest Flammarion, 1936. http://gallica.bnf.fr/ark:/12148/bpt6k1506086r.
 
 ## Sources à analyser en vue de leur numérisation
